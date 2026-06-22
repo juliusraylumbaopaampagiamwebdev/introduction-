@@ -1,5 +1,5 @@
 # introduction-
-# Hi there 👋, I'm Juliu Ray Lumbao Paampag!
+# Hi there 👋, I'm Julius!
 
 - 🔭 Currently working on web development projects
 - 🌱 Learning React and Node.js
